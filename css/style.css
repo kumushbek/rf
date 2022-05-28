@@ -1,0 +1,22 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.about{
+    width: 100%;
+    height: 350px;
+    background: url(https://c.wallhere.com/photos/76/8d/park_blue_sunset_summer_sky_moon_mountain_mountains-896926.jpg!d);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; /* top, bottom, left, right */
+    background-attachment: fixed;
+}
+
+.service{
+    width: 100%;
+    height: 350px;
+    background: url(https://s1.1zoom.ru/big0/548/430717-Kycb.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
